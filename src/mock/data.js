@@ -24,7 +24,6 @@ export const aboutData = {
  // if no resume, the button will not show up
 };
 
-// PROJECTS DATA
 export const projectsData = [
   
   {
@@ -137,7 +136,6 @@ export const projectsData = [
     repo: 'https://github.com/Gamygams1234/sign-up-form', // if no repo, the button will not show up
   },
 ];
-
 // CONTACT DATA
 export const contactData = {
   cta: 'Would you like to work with me? Shoot me an email!',
