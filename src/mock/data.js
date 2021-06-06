@@ -50,7 +50,7 @@ export const projectsData = [
     info: 'This is a landing page made with HTML CSS and Javascript. I was able to implement the :before and :after selectors in order to make sure that the images were layered and it fit the design.',
     info2: '',
     url: 'https://dreamy-yonath-35484e.netlify.app/',
-    repo: 'https://github.com/Gamygams1234/insure-landing-page', // if no repo, the button will not show up
+    repo: 'https://github.com/Gamygams1234/insure-landing-page', // if no repo, the button will not sho
   },
   {
     id: nanoid(),
