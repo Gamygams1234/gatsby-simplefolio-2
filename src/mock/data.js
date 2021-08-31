@@ -45,6 +45,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'coffeeRoasters.jpg',
+    title: `Coffee Roasters`,
+    info: 'This is a 3 page landing subscription site which showcases my JavaScript, HTML, CSS, and logic skills.',
+    info2: '',
+    url: 'https://hopeful-nobel-26ed64.netlify.app',
+    repo: 'https://github.com/Gamygams1234/coffee-roasters-subscription', // if no repo, the button will not sho
+  },
+  {
+    id: nanoid(),
     img: 'insure.jpg',
     title: `Insure Landing Page`,
     info: 'This is a landing page made with HTML CSS and Javascript. I was able to implement the :before and :after selectors in order to make sure that the images were layered and it fit the design.',
@@ -52,6 +61,7 @@ export const projectsData = [
     url: 'https://dreamy-yonath-35484e.netlify.app/',
     repo: 'https://github.com/Gamygams1234/insure-landing-page', // if no repo, the button will not sho
   },
+
   {
     id: nanoid(),
     img: 'slider.jpg',
